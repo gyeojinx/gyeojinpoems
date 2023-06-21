@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Jane Nicole's Website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+</style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-purple w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Jane Nicole's Portfolio</a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 4</a>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-container w3-purple w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">𝑎 𝑡𝑒𝑎 𝑑𝑟𝑜𝑝𝑠 𝑓𝑟𝑜𝑚 𝑡𝑒𝑎 𝑏𝑎𝑔</h1>
+  <p style="color:#663399" <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide"> Compilations of Poems </span></h5>
+
+ </button>
+</header>
+
+<!-- First Grid -->
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>I</h1>
+      <p> Totoo- <br> Sa lugar na ito ay <br> mausok-nakakasulasok­. <br> Usok rito ay kalaban, <br> bawat paghinga mo ay bantay. <br> Nakabibinging musika, <br> mga tao; <br> di na magkarinigan pa. <br> Sila'y nagsasaya, <br> parang walang bukas na <br> nag-aabang sa kanila. <br> Mga matang nanlilisik, <br> tila hayok at sabik sa halik. <br> At sa entablado makikita si Maria, <br> Damit niyang nagkulang sa tela. <br> Mga galawan niyang nakakasabik, <br> May ngiting nakakaakit. <br> Mata ay singkit, <br> Merong sinasabing lihim. <br> "Tulungan niyo ako, <br> at wag na muling lunurin."
+ 	<h1>II</h1>
+      <p> sa huling pagpapaanod <br> sa malakas na alon <br> tangay na nito ang <br> madilim at nakalukunod <br> na kasalukuyan <br> ang batong nagpapabigat <br> sa kalooban tuwing hahakbang <br> at ang malalaking alon <br> sa pangpang ng kaisipan <br> na waring pumipigil <br> sa tuwing hinahanap <br> yaong bakas ng mga <br> yapak ng nakaraan <br> at sa pagbalik ng alon <br> sa dalampasigan mabubura <br> iring alaala at <br> gagawa ng bagong <br> mga kabanata.
+	<h1>III</h1>
+      <p> hindi ako anghel na <br> maaari mong itabi sa <br> mga santong sinasamba nila <br> hindi rin ako demonyong <br> dapat layuan at katakutan mo na <br> maaaring makasira ng buhay mo <br> wag mo akong ihalintulad <br> sa mga kawangis mo <br> dahil ako ay ako <br> hindi ako magsasantita para <br> sayo para lamang  maihalintulad <br> sa mga anghel na nasa libro ng <br> simbahan nyo <br> hindi rin ako magpapakatotoo <br> para lamang husgahan mo't <br> tawaging demonyo <br> sapagkat ako ay ako <br> at pinaglalaruan ko <br> lamang ang isip mo
+</p>
+    </div>
+
+    <div class="w3-third w3-center">
+      <i class="fa fa-coffee w3-padding-64 w3-text-red"></i>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid -->
+<div class="w3-row-padding w3-Thistle  w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-tea w3-padding-64 w3-text-red w3 margin-align"></i>
+    </div>
+
+      <p class="w3-text-grey">Life is more than one thing. Sometimes it is fight, and other times music. It can be be like a coin, a wall, or a dice. It quickly changes from being an art, to being gamble, a sport, a dance, a poem. And self-trust, is what tells you that you can get through whatever life decides to be today.-Jericho Silvers
+</p>
+
+</body>
+</html>
